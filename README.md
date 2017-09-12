@@ -1,4 +1,4 @@
-#Git Commands
+# Git Commands
 
 Use Git commands to help keep track of changes made to a project:
 
@@ -17,7 +17,7 @@ Use Git commands to help keep track of changes made to a project:
 * git merge branch_name: Used to join file changes from one branch to another.
 * git branch -d branch_name: Deletes the branch specified.
 
-###Creating a new git
+### Creating a new git
 ```
 git init
 // edit .gitignore
